@@ -1,4 +1,15 @@
-### Hi there 👋
+```json
+ { “name” : “Aitor Alonso Melián”,
+   “role” : “Computer Engineering Student”,
+   "interests": ["Data Science", "Web Development", "Software Development"],
+   “data” : 
+     { 
+      "Linkedin" : "https://www.linkedin.com/in/aitor-alonso-melian/"
+     }
+ }
+```
+
+
 
 <!--
 **AitorAlonsoMelian/AitorAlonsoMelian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
