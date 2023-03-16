@@ -9,7 +9,12 @@
      }
  }
 ```
-
+<h4>
+ Programming Languages I have used
+</h4>
+<p>
+ <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+ <p>
 
 
 <!--
