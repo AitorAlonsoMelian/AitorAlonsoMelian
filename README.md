@@ -1,9 +1,9 @@
 ```json
  { 
-   “name” : “Aitor Alonso Melián”,
-   “role” : “Computer Engineering Student”,
+   "name" : "Aitor Alonso Melián",
+   "role" : “Computer Engineering Student”,
    "interests": ["Data Science", "Web Development", "Software Development"],
-   “data” : 
+   "data" : 
      { 
       "Linkedin" : "https://www.linkedin.com/in/aitor-alonso-melian/"
      }
