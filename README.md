@@ -1,7 +1,7 @@
 ```json
  { 
    "name" : "Aitor Alonso Melián",
-   "role" : "Computer Engineering Student",
+   "role" : "Computer Engineer",
    "interests": ["Data Science", "Web Development", "Software Development"],
    "data" : 
      { 
